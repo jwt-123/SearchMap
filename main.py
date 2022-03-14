@@ -1,8 +1,9 @@
-
+#lwt
 
 import banner
 import reptile
-
+import Parse
+import dictionary
 
 def print_hi(name):
     print(f'Hi, {name}')
